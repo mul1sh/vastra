@@ -1,0 +1,3 @@
+rootProject.name = 'vastra'
+
+include ':app'
